@@ -32,11 +32,13 @@ redirect_from:
 我的研究方向包括地理大数据安全、云雾计算、图卷积网络、深度学习、智慧城市等，详情参见导航栏[【学术科研】](https://realyao.xyz/cv/publications/)。 
 
 <!-- 我的职业方向是产品经理（PM）。 -->
-我在字节跳动、微众银行等公司有几段产品相关的实习经历。独立设计开发上线了小程序产品[专注时钟](https://realyao.github.io/foclock)，并持续运营迭代中。同时，我还具备一定计算机基础和前端开发能力，包括 Python、Web开发、小程序开发等，正在学习 Golang 和 VUE 框架中，转至[【简历】](https://realyao.xyz/cv/cv/)查看完整履历。 
+我在字节跳动、微众、易方达等公司有几段产品相关的实习经历；并独立设计开发上线了小程序产品[专注时钟](https://realyao.github.io/foclock)，持续运营迭代中。同时，我还具备一定计算机基础和前端开发能力，包括 Python、Web开发、小程序开发等，正在学习 Golang 和 VUE 框架中，转至[【简历】](https://realyao.xyz/cv/cv/)查看完整履历。 
 
 
 **联系方式：**  
-<i class="fa fa-fw fa-envelope"></i> <font style="font-size: 1em;">Email: <a href="mailto:patricky@foxmail.com">patricky@foxmail.com</a></font>
+<i class="fa fa-fw fa-envelope"></i> <font style="font-size: 1em;">Email: <a href="mailto:yuyao.mail@qq.com">yuyao.mail@qq.com</a></font>
+<br>
+<a href="mailto:patricky@foxmail.com">patricky@foxmail.com</a></font>
 <br>
  <!-- ~~yuyao.pm@bytedance.com~~ -->
 
@@ -50,8 +52,8 @@ redirect_from:
   <b style="color: #adf;">[05/2022]</b> 加入 <i>北京字节跳动 - 产品研发和工程架构部 - TikTok PMO团队 </i>实习 <br>
   <b style="color: #adf;">[10/2021]</b> 参加 <i>IEEE Big Data Science and Engineering 2021</i> 国际会议并作学术报告<br> 
   <!-- <b style="color: #adf;">[06/2021]</b> 以简驭繁的浏览器导航主页 —— <a href="https://realyao.github.io/one" target="_blank">壹导航</a> 已上线 <br> -->
-  <b style="color: #adf;">[03/2021]</b> 微信小程序<a href="https://realyao.github.io/foclock" target="_blank">【专注时钟】</a>代码开源到 <a href="https://github.com/realyao/WXminiprogram-Focus-clock" target="_blank">Github</a> 社区！此次更新（V1.2.2）带来了白噪声等新功能 。<img src="https://visitor-badge.glitch.me/badge?page_id=realyao.WXminiprogram-Focus-clock"> <img src="https://img.shields.io/github/stars/realyao/WXminiprogram-Focus-clock">  <br>
-   <b style="color: #adf;">[09/2020]</b> 加入 CUG - BDAIS（大数据与人工智能安全）研究生实验室  
+  <b style="color: #adf;">[03/2021]</b> 微信小程序<a href="https://realyao.github.io/foclock" target="_blank">【专注时钟】</a>更新至 V_1.2.2，此次更新带来了白噪声等新功能！代码已开源至GitHub社区 <img src="https://visitor-badge.glitch.me/badge?page_id=realyao.WXminiprogram-Focus-clock"> <img src="https://img.shields.io/github/stars/realyao/WXminiprogram-Focus-clock">  <br>
+  <b style="color: #adf;">[09/2020]</b> 加入 CUG - BDAIS（大数据与人工智能安全）研究生实验室  
   <br>
   </p>
 </div>
