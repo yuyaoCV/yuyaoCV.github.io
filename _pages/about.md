@@ -38,7 +38,7 @@ redirect_from:
 **联系方式：**  
 <i class="fa fa-fw fa-envelope"></i> <font style="font-size: 1em;">Email: <a href="mailto:yuyao.mail@qq.com">yuyao.mail@qq.com</a></font>
 <br>
-<a href="mailto:patricky@foxmail.com">patricky@foxmail.com</a></font>
+<a href="mailto:patricky@foxmail.com">patricky@foxmail.com</a>
 <br>
  <!-- ~~yuyao.pm@bytedance.com~~ -->
 
