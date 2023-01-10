@@ -26,7 +26,7 @@ redirect_from:
 * 本科 物联网 (IoT) @计算机科学与技术学院，[吉林大学](http://global.jlu.edu.cn/)
   * 主修课程：数据挖掘与机器学习、大数据技术原理与应用、算法设计与分析、现代软件工程；计算机网络、无线传感器技术、嵌入式系统设计、Android软件开发 等
   
-* <i class="fa fa-fw fa-envelope"></i> <font style="font-size: 1em;">Email: <a href="mailto:patricky@foxmail.com">patricky@foxmail.com</a></font>
+* <i class="fa fa-fw fa-envelope"></i> <font style="font-size: 1em;">Email: <a href="mailto:yuyao.mail@qq.com.com">yuyao.mail@qq.com</a></font>
 
 ---
 
