@@ -1,0 +1,29 @@
+# main links links
+main:
+
+
+  # - title: "Talks"
+  #   url: /talks/
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+  - title: "首页"
+    url: /about/
+
+  - title: "简历"
+    url: /cv/
+
+  - title: "活动"
+    url: /blogs/    
+
+  - title: "学术科研"
+    url: /publications/
+        
+  - title: "相册"
+    url: /gallery/
+    
+  # - title: "Guide"
+  #   url: /markdown/
