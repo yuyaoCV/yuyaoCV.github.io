@@ -54,8 +54,8 @@ author_profile: false
       <i>关键词：Blockchain, IPFS, Finance credential, Secure sharing</i>
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <a href="/cv/images/EBBSmodel.png">
-      <img src='/cv/images/EBBSmodel.png' width="250">
+      <a href="images/EBBSmodel.png">
+      <img src='images/EBBSmodel.png' width="250">
       </a>
     </td>
   </tr>
@@ -77,8 +77,8 @@ author_profile: false
       <i>关键词：云雾计算，地理大数据，代理重加密，安全外包计算，数据脱敏</i>
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <a href="/cv/images/epds1.jpg">
-      <img src='/cv/images/epds1.jpg' width="250">
+      <a href="images/epds1.jpg">
+      <img src='images/epds1.jpg' width="250">
       </a>
     </td>
   </tr>
@@ -99,8 +99,8 @@ author_profile: false
       <i>关键词：遥感图像，多标签图像识别，注意力机制，图卷积网络，深度学习</i>
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <a href="/cv/images/gcn1.jpg">
-      <img src='/cv/images/gcn1.jpg' width="250">
+      <a href="images/gcn1.jpg">
+      <img src='images/gcn1.jpg' width="250">
       </a>
     </td>
   </tr>
@@ -123,8 +123,8 @@ author_profile: false
       <br>
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <a href="/cv/images/zl1.jpg">
-      <img src='/cv/images/zl1.jpg' width="300">
+      <a href="images/zl1.jpg">
+      <img src='images/zl1.jpg' width="300">
       </a>
     </td>
   </tr>
@@ -141,8 +141,8 @@ author_profile: false
       <!-- <i><u>Yao Yu</u>, et al</i>. -->
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <a href="/cv/images/pj1.png">
-      <img src='/cv/images/pj1.png' width="250">
+      <a href="images/pj1.png">
+      <img src='images/pj1.png' width="250">
       </a>
     </td>
   </tr>
@@ -153,8 +153,8 @@ author_profile: false
       <!-- <i><u>Yao Yu</u>, et al</i>. -->
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <a href="/cv/images/pj2.jpg">
-      <img src='/cv/images/pj2.jpg' width="250">
+      <a href="images/pj2.jpg">
+      <img src='images/pj2.jpg' width="250">
       </a>
     </td>
   </tr>
