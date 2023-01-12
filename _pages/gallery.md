@@ -17,8 +17,8 @@ author_profile: false
   <tr>
     <td style="padding:8px;width:35%;vertical-align:middle;horizontal-align:middle;border:none;">
     <center>拨穗 @Jilin, 2019</center>
-      <a href="https://dcdn.it120.cc/2022/04/17/1a4e7278-2075-43f3-b272-a9ac93e954ca.jpeg">
-      <img src="https://dcdn.it120.cc/2022/04/17/1a4e7278-2075-43f3-b272-a9ac93e954ca.jpeg" style="border-radius:20px;">
+      <a href="/images/gallery2.jpeg">
+      <img src="/images/gallery2.jpeg" style="border-radius:20px;">
       </a>
     </td>
     <td style="padding:8px;width:65%;vertical-align:middle;horizontal-align:middle;border:none;">
