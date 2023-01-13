@@ -32,7 +32,7 @@ redirect_from:
 我的研究方向包括地理大数据安全、云雾计算、图卷积网络、深度学习、智慧城市等，详情参见导航栏[【学术科研】](https://realyao.xyz/cv/publications/)。 
 
 <!-- 我的职业方向是产品经理（PM）。 -->
-我在字节跳动、微众、易方达等公司有几段产品相关的实习经历；并独立设计开发上线了小程序产品[专注时钟](https://realyao.github.io/foclock)，持续运营迭代中。同时，我还具备一定计算机基础和前端开发能力，包括 Python、Web开发、小程序开发等，正在学习 Golang 和 VUE 框架中，转至[【简历】](https://realyao.xyz/cv/cv/)查看完整履历。 
+我在字节跳动、微众银行、易方达基金等公司有几段产品相关的实习经历；并独立设计开发上线了小程序产品[专注时钟](https://realyao.github.io/foclock)，持续运营迭代中。同时，我还具备一定计算机基础和前端开发能力，包括 Python、Web开发、小程序开发等，正在学习 Golang 和 VUE 框架中，转至[【简历】](https://realyao.xyz/cv/cv/)查看完整履历。 
 
 
 **联系方式：**  
