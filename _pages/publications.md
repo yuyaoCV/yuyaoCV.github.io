@@ -148,7 +148,7 @@ author_profile: false
   </tr>
     <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-~~2. 基于深度学习的地质大数据*****安全共享技术研究， 国家自然科学基金项目, ~~ 
+2. *****技术研究， 国家自然科学基金项目
       <br>
       <!-- <i><u>Yao Yu</u>, et al</i>. -->
     </td>
