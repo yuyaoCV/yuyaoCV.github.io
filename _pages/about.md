@@ -32,16 +32,13 @@ redirect_from:
 我的研究方向包括地理大数据安全、云雾计算、图卷积网络、深度学习、智慧城市等，详请参见[【学术科研】](https://realyao.xyz/cv/publications/)。 
 
 <!-- 我的职业方向是产品经理（PM）。 -->
-我在字节跳动、微众银行、易方达基金等公司有几段产品相关的实习经历；并独立设计开发上线了小程序产品[专注时钟](https://realyao.github.io/foclock)，持续运营迭代中。同时，我还具备一定计算机基础和前端开发能力，包括 Python、Web开发、小程序开发等，正在学习 Golang 和 VUE 框架中，转至[【简历】](https://realyao.xyz/cv/cv/)查看完整履历。 
+我在字节跳动、微众银行、易方达基金等公司有几段产品相关的实习经历；并独立设计开发上线了小程序产品[专注时钟](https://realyao.github.io/foclock)，持续运营迭代中。同时，我还具备一定开发能力和数据分析能力，包括 Python、Web开发、小程序开发等，正在学习 Golang 和 VUE 框架中，转至[【简历】](https://realyao.xyz/cv/cv/)查看完整履历。 
 
 
 **联系方式：**  
-<i class="fa fa-fw fa-envelope"></i> <font style="font-size: 1em;">Email: <a href="mailto:yuyao.mail@qq.com">yuyao.mail@qq.com</a></font>
-<br>
-或 <a href="mailto:patricky@foxmail.com">patricky@foxmail.com</a>
-<br>
+<i class="fa fa-fw fa-envelope"></i> <font style="font-size: 1em;">Email: <a href="mailto:yuyao.mail@qq.com">yuyao.mail@qq.com</a></font> 或 <a href="mailto:patricky@foxmail.com">patricky@foxmail.com</a>
+<!-- <br> -->
  <!-- ~~yuyao.pm@bytedance.com~~ -->
-
 ------
 
 <h2 style="color: #ff6666;">What's New</h2>
@@ -59,11 +56,9 @@ redirect_from:
 </div>
 
 
-
-
 <h2 style="color: #ffff99;">Fun Facts</h2>
 
-*事实上，我的中文名字常常被人读错🤣。“垚”字古同“堯”，从yao音，是为高且远也。*  
+事实上，我的中文名字常常被人读错🤣。“垚”字古同“堯”，从yao音，是为高且远也。
 
 爱好羽毛球和游泳；同时是一名忠实的FPS游戏玩家（如 CS:GO 和 OverWatch），虽然还是新手水平 ~~但是又菜又爱玩~~。 
 

@@ -14,17 +14,20 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %} -->
 
-
-* **[2021/10]** 参加 *IEEE Big Data Science and Engineering 2021* 国际会议并作<a href="/images/bigdatase_yy.jpg">学术报告</a>
-* **[2021/09]** 担任 中国移动-第二届信息通信网络职业技能竞赛 裁判
-* **[2020/09]** 担任 研究生会-学术部长，协作部门成员组织校内活动，同时与其他学生组织、学校部门保持紧密合作
-* **[2018/03]** 参加 联合国教科文组织-多语言挑战赛
-* **[2016/07]** 担任 全国高校计算机教育大会 志愿者  
+<div style="line-height: 1.5em; font-size: 0.95em">
+  <p>
+  <b style="color: #adf;">[2021/10]</b> 参加 <i>IEEE Big Data Science and Engineering 2021</i> 国际会议并作<a href="/images/bigdatase_yy.jpg">学术报告</a><br>
+  <b style="color: #adf;">[2021/09]</b> 担任 中国移动-第二届信息通信网络职业技能竞赛 裁判<br>
+  <b style="color: #adf;">[2020/09]</b> 担任 研究生会-学术部长，协作部门成员组织校内活动，同时与其他学生组织、学校部门保持紧密合作<br>
+  <b style="color: #adf;">[2018/03]</b> 参加 联合国教科文组织-多语言挑战赛<br> 
+  <b style="color: #adf;">[2016/07]</b> 担任 全国高校计算机教育大会 志愿者<br>
+  </p>
+</div>
   
 ------
 
 ## 内容分享
-我会在知乎专栏和 [CSDN](https://blog.csdn.net/qq_41339564) 社区分享一些技术博客，在 [GitHub](https://github.com/realyao) 开源我的代码工作，同时在 [公众号](https://realyao.gitee.io/gzh) REALY 记录个人学习成长经历。
+我会在知乎专栏和 [CSDN](https://blog.csdn.net/qq_41339564) 社区分享一些技术博客，在 [GitHub](https://github.com/realyao) 开源我的代码工作，同时在 [公众号](https://realyao.gitee.io/gzh) REALY 记录个人学习成长经历，感谢关注。
 
 ------
 
