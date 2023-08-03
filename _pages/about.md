@@ -30,10 +30,10 @@ redirect_from:
 
 我目前供职于<u>中国工商银行软件研发中心-产品赋能团队</u>，负责信用卡贷中/贷后/运营管理等全流程需求管理、产品设计、用户体验等工作。
 在此之前，我在字节跳动、微众银行、易方达基金等公司有几段产品经理相关的实习经历；并独立设计开发上线了小程序产品[专注时钟](https://realyao.github.io/foclock)。
-同时，我还具备一定开发能力和数据分析能力，包括 Python、Web开发、小程序开发等，正在学习 Golang 和 VUE 框架中，转至[【简历】](https://realyao.xyz/cv/cv/)查看完整履历。
+同时，我还具备一定开发能力和数据分析能力，包括 Python、Web开发、小程序开发等，正在学习 Golang 和 VUE 框架中，转至[【简历】](https://yuyaocv.github.io/cv/)查看完整履历。
 
 我在[吉林大学](https://ccst.jlu.edu.cn/)和[中国地质大学](https://www.cug.edu.cn/)分别获得了我的计算机专业本硕学历。
-我的研究方向包括地理大数据安全、云雾计算、图卷积网络、深度学习、智慧城市等，详请参见[【学术科研】](https://realyao.xyz/cv/publications/)。 
+我的研究方向包括地理大数据安全、云雾计算、图卷积网络、深度学习、智慧城市等，详请参见[【学术科研】](https://yuyaocv.github.io/publications/)。 
 
 
 **联系方式：**  
