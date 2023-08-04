@@ -86,7 +86,8 @@ redirect_from:
   4. <u>用户&产品运营</u>：搭建反馈社群，持续挖掘用户需求，并推出白噪声、打卡等新功能激活用户。跟踪分析上线数据并完善用户画像，以提升用户增长和活跃留存。上线累积用户4000+，用户留存率20%，接入微信生态广告实现流量盈利。
   5. 详情参见 [ [**产品主页**](https://realyao.github.io/foclock) / [**Github**](https://github.com/realyao/WXminiprogram-Focus-clock) <img src="https://img.shields.io/github/stars/realyao/WXminiprogram-Focus-clock"> ] 
 
-
+<details>
+<summary> <b>展开更多项目</b> </summary>
 <h3> 大学生创新项目《基于多核与MCU协同的智慧交通设计》 - 项目规划 - 2017 </h3>
 <ul>
 <li> 项目设计并实现了集环境认知、巡航避障、智能控制功能于一体的无人车模型，以及智慧楼宇、车牌识别等V2X解决方案，结题评级为优秀项目。</li>
@@ -97,6 +98,7 @@ redirect_from:
 <ul>
 <li>该项目实现了VR购物商品浏览模块，基于Unity5游戏引擎以及C#脚本编程。</li>
 </ul>
+</details>
 
 ---
 
