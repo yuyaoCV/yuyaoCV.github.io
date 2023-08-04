@@ -73,7 +73,7 @@ redirect_from:
 <ul>
 </details>
 
----  
+<hr>
 
 ## 4. 项目
 
@@ -87,8 +87,6 @@ redirect_from:
   5. 详情参见 [ [**产品主页**](https://realyao.github.io/foclock) / [**Github**](https://github.com/realyao/WXminiprogram-Focus-clock) <img src="https://img.shields.io/github/stars/realyao/WXminiprogram-Focus-clock"> ] 
 
 
-<details>
-<summary><b>展开更多项目</b></summary>
 <h3> 大学生创新项目《基于多核与MCU协同的智慧交通设计》 - 项目规划 - 2017 </h3>
 <ul>
 <li> 项目设计并实现了集环境认知、巡航避障、智能控制功能于一体的无人车模型，以及智慧楼宇、车牌识别等V2X解决方案，结题评级为优秀项目。</li>
@@ -99,7 +97,6 @@ redirect_from:
 <ul>
 <li>该项目实现了VR购物商品浏览模块，基于Unity5游戏引擎以及C#脚本编程。</li>
 </ul>
-</details>
 
 ---
 
