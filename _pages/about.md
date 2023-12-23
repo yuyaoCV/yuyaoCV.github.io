@@ -28,11 +28,11 @@ redirect_from:
 <!-------------------->
 > 你好！/ Hello! / こんにちは! / Здравствуй! / Bonjour! / Hola! / Ciao!  **I'm Patrick**.
 
-我目前供职于<u>中国工商银行软件研发中心-产品赋能团队</u>，负责信用卡贷中/贷后/运营管理等全流程需求管理、产品设计、用户体验等工作。
-在此之前，我在字节跳动、微众银行、易方达基金等公司有几段产品经理相关的实习经历；并独立设计开发上线了小程序产品[专注时钟](https://realyao.github.io/foclock)。
-同时，我还具备一定开发能力和数据分析能力，包括 Python、Web开发、小程序开发等，正在学习 Golang 和 VUE 框架中，转至[【简历】](https://yuyaocv.github.io/cv/)查看完整履历。
+我目前供职于<u>中国工商银行 软件研发中心-产品赋能团队</u>，负责信用卡 贷前/贷中/运营管理等全流程需求管理、产品设计、用户体验等工作。
+在此之前，我在字节跳动、微众银行、易方达基金等公司有几段<u>产品经理</u>相关的实习经历；并独立设计开发上线了小程序产品[专注时钟](https://realyao.github.io/foclock)。
+同时，我还具备一定开发能力和数据分析能力，包括 Python、Web、小程序开发等，正在学习 Golang 和 VUE 框架中，转至[【简历】](https://yuyaocv.github.io/cv/)查看完整履历。
 
-我在[吉林大学](https://ccst.jlu.edu.cn/)和[中国地质大学](https://www.cug.edu.cn/)分别获得了我的计算机专业本硕学历。
+我在[吉林大学](https://ccst.jlu.edu.cn/)和[中国地质大学](https://www.cug.edu.cn/)分别获得了我的<u>计算机专业本硕</u>学历。
 我的研究方向包括地理大数据安全、云雾计算、图卷积网络、深度学习、智慧城市等，详请参见[【学术科研】](https://yuyaocv.github.io/publications/)。 
 
 
@@ -46,7 +46,7 @@ redirect_from:
 <h2 style="color: #ff6666;">What's New</h2>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b style="color: #adf;">[2023/07]</b> 就职于 <i>中国工商银行软件研发中心-产品赋能团队</i> <br>
+  <b style="color: #adf;">[2023/07]</b> 就职于 <i>中国工商银行软件研发中心-产品赋能团队</i>，借调申卡调额测试小组 <br>
   <b style="color: #adf;">[2022/12]</b> 加入 <i>广州易方达基金 - 客销部/产品经理 </i>实习 <br>
   <b style="color: #adf;">[2022/07]</b> 加入 <i>深圳微众银行 (WeBank) - 零售风险部（微粒贷）</i>实习 <br>
   <b style="color: #adf;">[2022/05]</b> 加入 <i>北京字节跳动 - 产品研发和工程架构部 - TikTok PMO团队 </i>实习 <br>
